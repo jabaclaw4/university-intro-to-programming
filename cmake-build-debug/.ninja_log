@@ -1,0 +1,7 @@
+# ninja log v6
+10	209	7794752719252192	CMakeFiles/universPrograming.dir/main.c.obj	6f8c543ff7880993
+10	362	7794776958279073	CMakeFiles/universPrograming.dir/baza.c.obj	888923ace7d55907
+5	218	7794849026450268	CMakeFiles/universPrograming0.dir/firstPacket/main.c.obj	f586df20534d8229
+219	484	7794849028588861	universPrograming0.exe	e509e4651bfc86a0
+38	351	7794849123775988	CMakeFiles/universPrograming1.dir/firstPacket/baza.c.obj	72f900c52e3b3ce
+352	768	7794849126914904	universPrograming1.exe	cff483d2a751a6f0
