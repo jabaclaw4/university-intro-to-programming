@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/nasty/CLionProjects/universPrograming/cmake-buil
 
 build cmake_object_order_depends_target_universPrograming0: phony || CMakeFiles/universPrograming0.dir
 
-build CMakeFiles/universPrograming0.dir/firstPacket/main.c.obj: C_COMPILER__universPrograming0_unscanned_Debug C$:/Users/nasty/CLionProjects/universPrograming/firstPacket/main.c || cmake_object_order_depends_target_universPrograming0
-  DEP_FILE = CMakeFiles\universPrograming0.dir\firstPacket\main.c.obj.d
+build CMakeFiles/universPrograming0.dir/firstPacket/num1.2.4.c.obj: C_COMPILER__universPrograming0_unscanned_Debug C$:/Users/nasty/CLionProjects/universPrograming/firstPacket/num1.2.4.c || cmake_object_order_depends_target_universPrograming0
+  DEP_FILE = CMakeFiles\universPrograming0.dir\firstPacket\num1.2.4.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\universPrograming0.dir
   OBJECT_FILE_DIR = CMakeFiles\universPrograming0.dir\firstPacket
@@ -63,7 +63,7 @@ build CMakeFiles/universPrograming0.dir/firstPacket/main.c.obj: C_COMPILER__univ
 #############################################
 # Link the executable universPrograming0.exe
 
-build universPrograming0.exe: C_EXECUTABLE_LINKER__universPrograming0_Debug CMakeFiles/universPrograming0.dir/firstPacket/main.c.obj
+build universPrograming0.exe: C_EXECUTABLE_LINKER__universPrograming0_Debug CMakeFiles/universPrograming0.dir/firstPacket/num1.2.4.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\universPrograming0.dir
@@ -82,8 +82,8 @@ build universPrograming0.exe: C_EXECUTABLE_LINKER__universPrograming0_Debug CMak
 
 build cmake_object_order_depends_target_universPrograming1: phony || CMakeFiles/universPrograming1.dir
 
-build CMakeFiles/universPrograming1.dir/firstPacket/baza.c.obj: C_COMPILER__universPrograming1_unscanned_Debug C$:/Users/nasty/CLionProjects/universPrograming/firstPacket/baza.c || cmake_object_order_depends_target_universPrograming1
-  DEP_FILE = CMakeFiles\universPrograming1.dir\firstPacket\baza.c.obj.d
+build CMakeFiles/universPrograming1.dir/firstPacket/num1.2.1.c.obj: C_COMPILER__universPrograming1_unscanned_Debug C$:/Users/nasty/CLionProjects/universPrograming/firstPacket/num1.2.1.c || cmake_object_order_depends_target_universPrograming1
+  DEP_FILE = CMakeFiles\universPrograming1.dir\firstPacket\num1.2.1.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\universPrograming1.dir
   OBJECT_FILE_DIR = CMakeFiles\universPrograming1.dir\firstPacket
@@ -96,7 +96,7 @@ build CMakeFiles/universPrograming1.dir/firstPacket/baza.c.obj: C_COMPILER__univ
 #############################################
 # Link the executable universPrograming1.exe
 
-build universPrograming1.exe: C_EXECUTABLE_LINKER__universPrograming1_Debug CMakeFiles/universPrograming1.dir/firstPacket/baza.c.obj
+build universPrograming1.exe: C_EXECUTABLE_LINKER__universPrograming1_Debug CMakeFiles/universPrograming1.dir/firstPacket/num1.2.1.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\universPrograming1.dir

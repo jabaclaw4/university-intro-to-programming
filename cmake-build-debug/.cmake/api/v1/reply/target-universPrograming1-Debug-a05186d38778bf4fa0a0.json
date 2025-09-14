@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "universPrograming0.exe"
+			"path" : "universPrograming1.exe"
 		},
 		{
-			"path" : "universPrograming0.pdb"
+			"path" : "universPrograming1.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 6,
+				"line" : 7,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "universPrograming0::@6890427a1f51a3e7e1df",
+	"id" : "universPrograming1::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "universPrograming0",
-	"nameOnDisk" : "universPrograming0.exe",
+	"name" : "universPrograming1",
+	"nameOnDisk" : "universPrograming1.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "firstPacket/main.c",
+			"path" : "firstPacket/num1.2.1.c",
 			"sourceGroupIndex" : 0
 		}
 	],
