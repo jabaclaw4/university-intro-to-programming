@@ -128,29 +128,29 @@ universPrograming0/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/build
 .PHONY : universPrograming0/fast
 
-firstPacket/num1.2.21.obj: firstPacket/num1.2.21.c.obj
-.PHONY : firstPacket/num1.2.21.obj
+firstPacket/num1.2.25.obj: firstPacket/num1.2.25.c.obj
+.PHONY : firstPacket/num1.2.25.obj
 
 # target to build an object file
-firstPacket/num1.2.21.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/firstPacket/num1.2.21.c.obj
-.PHONY : firstPacket/num1.2.21.c.obj
+firstPacket/num1.2.25.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/firstPacket/num1.2.25.c.obj
+.PHONY : firstPacket/num1.2.25.c.obj
 
-firstPacket/num1.2.21.i: firstPacket/num1.2.21.c.i
-.PHONY : firstPacket/num1.2.21.i
+firstPacket/num1.2.25.i: firstPacket/num1.2.25.c.i
+.PHONY : firstPacket/num1.2.25.i
 
 # target to preprocess a source file
-firstPacket/num1.2.21.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/firstPacket/num1.2.21.c.i
-.PHONY : firstPacket/num1.2.21.c.i
+firstPacket/num1.2.25.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/firstPacket/num1.2.25.c.i
+.PHONY : firstPacket/num1.2.25.c.i
 
-firstPacket/num1.2.21.s: firstPacket/num1.2.21.c.s
-.PHONY : firstPacket/num1.2.21.s
+firstPacket/num1.2.25.s: firstPacket/num1.2.25.c.s
+.PHONY : firstPacket/num1.2.25.s
 
 # target to generate assembly for a file
-firstPacket/num1.2.21.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/firstPacket/num1.2.21.c.s
-.PHONY : firstPacket/num1.2.21.c.s
+firstPacket/num1.2.25.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/firstPacket/num1.2.25.c.s
+.PHONY : firstPacket/num1.2.25.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... universPrograming0
-	@echo ... firstPacket/num1.2.21.obj
-	@echo ... firstPacket/num1.2.21.i
-	@echo ... firstPacket/num1.2.21.s
+	@echo ... firstPacket/num1.2.25.obj
+	@echo ... firstPacket/num1.2.25.i
+	@echo ... firstPacket/num1.2.25.s
 .PHONY : help
 
 
