@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/universPrograming0.dir/firstPacket/num1.2.25.c.obj"
-  "CMakeFiles/universPrograming0.dir/firstPacket/num1.2.25.c.obj.d"
+  "CMakeFiles/universPrograming0.dir/firstPacket/num1.2.27.c.obj"
+  "CMakeFiles/universPrograming0.dir/firstPacket/num1.2.27.c.obj.d"
   "libuniversPrograming0.dll.a"
   "universPrograming0.exe"
   "universPrograming0.exe.manifest"

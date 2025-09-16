@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int x, a, pos = 0, last_pos = 0, first;
+    int a, pos = 0, last_pos = 0, first;
     scanf("%d", &first);
     while (scanf("%d", &a) == 1) {
         pos++;

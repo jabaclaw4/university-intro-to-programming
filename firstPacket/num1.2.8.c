@@ -1,11 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int n, a, i = 0;
-    int count_null = 0, count_plus = 0, count_minus = 0;
-    scanf("%d",&n);
-    for (i = 0; i < n; i++) {
-        scanf("%d",&a);
+    int a, count_null = 0, count_plus = 0, count_minus = 0;
+    while (scanf("%d", &a) == 1) {
         if (a == 0) {
             count_null += 1;
         }
