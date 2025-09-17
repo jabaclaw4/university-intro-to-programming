@@ -1,14 +1,13 @@
 #include <stdio.h>
 
 int main() {
-    int n, a, i = 0;
+    int n, i = 0;
     float sum = 0.0, average;
-    scanf("%d",&n);
-    for (i = 0; i < n; i++) {
-        scanf("%d",&a);
-        sum += a;
+    while (scanf("%d", &n) == 1) {
+        i++;
+        sum += n;
     }
-    average = sum/n;
+    average = sum/i;
     printf("%.2f",average);
     return 0;
 }
