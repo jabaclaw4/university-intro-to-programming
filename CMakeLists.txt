@@ -4,4 +4,4 @@ project(universPrograming C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(universPrograming0 firstPacket/num1.2.43.c)
-#add_executable(universPrograming1 firstPacket/num1.2.1.c)
+#add_executable(universPrograming0 firstPacket/num1.2.5.c)
