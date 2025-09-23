@@ -15,6 +15,9 @@ int main() {
             count = 1;
             prev = next;
         }
+        if (count >= n) {
+            i++;
+        }
     }
     printf("%d", i);
     return 0;
