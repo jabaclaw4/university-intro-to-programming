@@ -1,18 +1,8 @@
 # ninja log v6
 486	946	7795315680297500	universPrograming1.exe	c776d5026e4a748e
-277	736	7798164770904743	universPrograming0.exe	f3106accb697e4f8
-8	1265	7803224240056977	build.ninja	a4e9fa2fc65b5ea6
-49	383	7803229365289627	CMakeFiles/universPrograming0.dir/firstPacket/num1.2.43.c.obj	150dcf9aecfba3d4
-385	778	7803229368649398	universPrograming0.exe	7b50debe989134a0
-51	409	7803230399818478	CMakeFiles/universPrograming0.dir/firstPacket/num1.2.43.c.obj	150dcf9aecfba3d4
-410	957	7803230403466057	universPrograming0.exe	7b50debe989134a0
-29	488	7803231925726910	CMakeFiles/universPrograming0.dir/firstPacket/num1.2.43.c.obj	150dcf9aecfba3d4
-490	819	7803231930308218	universPrograming0.exe	7b50debe989134a0
-50	425	7803233577606764	CMakeFiles/universPrograming0.dir/firstPacket/num1.2.43.c.obj	150dcf9aecfba3d4
-427	687	7803233581376730	universPrograming0.exe	7b50debe989134a0
-22	301	7803240409031273	CMakeFiles/universPrograming0.dir/firstPacket/num1.2.43.c.obj	150dcf9aecfba3d4
-302	595	7803240411840919	universPrograming0.exe	7b50debe989134a0
-328	558	7803272770666976	CMakeFiles/universPrograming0.dir/firstPacket/num1.2.43.c.obj	150dcf9aecfba3d4
-559	835	7803272772976972	universPrograming0.exe	7b50debe989134a0
-59	455	7803275145674758	CMakeFiles/universPrograming0.dir/firstPacket/num1.2.43.c.obj	150dcf9aecfba3d4
-456	727	7803275149644745	universPrograming0.exe	7b50debe989134a0
+54	356	7803303505872978	CMakeFiles/universPrograming0.dir/firstPacket/num1.2.43.c.obj	150dcf9aecfba3d4
+359	705	7803303781198298	universPrograming0.exe	a0c8900d1b0a0ba
+49	861	7803303957331846	build.ninja	a4e9fa2fc65b5ea6
+89	358	7803303778498979	CMakeFiles/universPrograming0.dir/firstPacket/doTriangle.c.obj	a74fe239d075d7a3
+23	319	7803306331678882	CMakeFiles/universPrograming0.dir/firstPacket/doTriangle.c.obj	a74fe239d075d7a3
+320	907	7803306334638863	universPrograming0.exe	a0c8900d1b0a0ba
