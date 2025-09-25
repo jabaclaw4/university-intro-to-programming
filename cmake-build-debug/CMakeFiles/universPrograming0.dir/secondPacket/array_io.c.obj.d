@@ -1,5 +1,5 @@
-CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj: \
- C:\Users\User\CLionProjects\university-intro-to-programming\firstPacket\num1.2.5.c \
+CMakeFiles/universPrograming0.dir/secondPacket/array_io.c.obj: \
+ C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\array_io.c \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
@@ -10,4 +10,5 @@ CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj: \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
- C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h
+ C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\array_io.h

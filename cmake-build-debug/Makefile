@@ -128,29 +128,77 @@ universPrograming0/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/build
 .PHONY : universPrograming0/fast
 
-can_form_triangle.obj: can_form_triangle.c.obj
-.PHONY : can_form_triangle.obj
+secondPacket/main.obj: secondPacket/main.c.obj
+.PHONY : secondPacket/main.obj
 
 # target to build an object file
-can_form_triangle.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj
-.PHONY : can_form_triangle.c.obj
+secondPacket/main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj
+.PHONY : secondPacket/main.c.obj
 
-can_form_triangle.i: can_form_triangle.c.i
-.PHONY : can_form_triangle.i
+secondPacket/main.i: secondPacket/main.c.i
+.PHONY : secondPacket/main.i
 
 # target to preprocess a source file
-can_form_triangle.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/can_form_triangle.c.i
-.PHONY : can_form_triangle.c.i
+secondPacket/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/main.c.i
+.PHONY : secondPacket/main.c.i
 
-can_form_triangle.s: can_form_triangle.c.s
-.PHONY : can_form_triangle.s
+secondPacket/main.s: secondPacket/main.c.s
+.PHONY : secondPacket/main.s
 
 # target to generate assembly for a file
-can_form_triangle.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/can_form_triangle.c.s
-.PHONY : can_form_triangle.c.s
+secondPacket/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/main.c.s
+.PHONY : secondPacket/main.c.s
+
+secondPacket/operations/array_io.obj: secondPacket/operations/array_io.c.obj
+.PHONY : secondPacket/operations/array_io.obj
+
+# target to build an object file
+secondPacket/operations/array_io.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj
+.PHONY : secondPacket/operations/array_io.c.obj
+
+secondPacket/operations/array_io.i: secondPacket/operations/array_io.c.i
+.PHONY : secondPacket/operations/array_io.i
+
+# target to preprocess a source file
+secondPacket/operations/array_io.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.i
+.PHONY : secondPacket/operations/array_io.c.i
+
+secondPacket/operations/array_io.s: secondPacket/operations/array_io.c.s
+.PHONY : secondPacket/operations/array_io.s
+
+# target to generate assembly for a file
+secondPacket/operations/array_io.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.s
+.PHONY : secondPacket/operations/array_io.c.s
+
+secondPacket/operations/num1.3.10.obj: secondPacket/operations/num1.3.10.c.obj
+.PHONY : secondPacket/operations/num1.3.10.obj
+
+# target to build an object file
+secondPacket/operations/num1.3.10.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.10.c.obj
+.PHONY : secondPacket/operations/num1.3.10.c.obj
+
+secondPacket/operations/num1.3.10.i: secondPacket/operations/num1.3.10.c.i
+.PHONY : secondPacket/operations/num1.3.10.i
+
+# target to preprocess a source file
+secondPacket/operations/num1.3.10.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.10.c.i
+.PHONY : secondPacket/operations/num1.3.10.c.i
+
+secondPacket/operations/num1.3.10.s: secondPacket/operations/num1.3.10.c.s
+.PHONY : secondPacket/operations/num1.3.10.s
+
+# target to generate assembly for a file
+secondPacket/operations/num1.3.10.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.10.c.s
+.PHONY : secondPacket/operations/num1.3.10.c.s
 
 # Help Target
 help:
@@ -161,9 +209,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... universPrograming0
-	@echo ... can_form_triangle.obj
-	@echo ... can_form_triangle.i
-	@echo ... can_form_triangle.s
+	@echo ... secondPacket/main.obj
+	@echo ... secondPacket/main.i
+	@echo ... secondPacket/main.s
+	@echo ... secondPacket/operations/array_io.obj
+	@echo ... secondPacket/operations/array_io.i
+	@echo ... secondPacket/operations/array_io.s
+	@echo ... secondPacket/operations/num1.3.10.obj
+	@echo ... secondPacket/operations/num1.3.10.i
+	@echo ... secondPacket/operations/num1.3.10.s
 .PHONY : help
 
 

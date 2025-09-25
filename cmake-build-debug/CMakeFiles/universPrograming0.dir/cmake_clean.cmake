@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj"
-  "CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj.d"
+  "CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj"
+  "CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj.d"
+  "CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj"
+  "CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj.d"
+  "CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.10.c.obj"
+  "CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.10.c.obj.d"
   "libuniversPrograming0.dll.a"
   "universPrograming0.exe"
   "universPrograming0.exe.manifest"

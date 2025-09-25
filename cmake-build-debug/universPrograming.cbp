@@ -76,7 +76,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/User/CLionProjects/university-intro-to-programming/can_form_triangle.c">
+		<Unit filename="C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/main.c">
+			<Option target="universPrograming0"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/array_io.c">
+			<Option target="universPrograming0"/>
+		</Unit>
+		<Unit filename="C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/num1.3.10.c">
 			<Option target="universPrograming0"/>
 		</Unit>
 		<Unit filename="C:/Users/User/CLionProjects/university-intro-to-programming/CMakeLists.txt">
