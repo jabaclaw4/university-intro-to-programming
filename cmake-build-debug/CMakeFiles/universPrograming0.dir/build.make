@@ -68,28 +68,28 @@ include CMakeFiles/universPrograming0.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/universPrograming0.dir/flags.make
 
-CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj: CMakeFiles/universPrograming0.dir/flags.make
-CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/firstPacket/num1.2.5.c
-CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj -MF CMakeFiles\universPrograming0.dir\firstPacket\num1.2.5.c.obj.d -o CMakeFiles\universPrograming0.dir\firstPacket\num1.2.5.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\firstPacket\num1.2.5.c
+CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj: CMakeFiles/universPrograming0.dir/flags.make
+CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/can_form_triangle.c
+CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj -MF CMakeFiles\universPrograming0.dir\can_form_triangle.c.obj.d -o CMakeFiles\universPrograming0.dir\can_form_triangle.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\can_form_triangle.c
 
-CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\firstPacket\num1.2.5.c > CMakeFiles\universPrograming0.dir\firstPacket\num1.2.5.c.i
+CMakeFiles/universPrograming0.dir/can_form_triangle.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/can_form_triangle.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\can_form_triangle.c > CMakeFiles\universPrograming0.dir\can_form_triangle.c.i
 
-CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\firstPacket\num1.2.5.c -o CMakeFiles\universPrograming0.dir\firstPacket\num1.2.5.c.s
+CMakeFiles/universPrograming0.dir/can_form_triangle.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/can_form_triangle.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\can_form_triangle.c -o CMakeFiles\universPrograming0.dir\can_form_triangle.c.s
 
 # Object files for target universPrograming0
 universPrograming0_OBJECTS = \
-"CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj"
+"CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj"
 
 # External object files for target universPrograming0
 universPrograming0_EXTERNAL_OBJECTS =
 
-universPrograming0.exe: CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj
+universPrograming0.exe: CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/build.make
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/linkLibs.rsp
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/objects1.rsp

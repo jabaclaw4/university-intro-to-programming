@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/User/CLionProjects/university-intro-to-programming/firstPacket/num1.2.5.c" "CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj.d"
+  "C:/Users/User/CLionProjects/university-intro-to-programming/can_form_triangle.c" "CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

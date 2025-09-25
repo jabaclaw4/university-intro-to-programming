@@ -128,29 +128,29 @@ universPrograming0/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/build
 .PHONY : universPrograming0/fast
 
-firstPacket/num1.2.5.obj: firstPacket/num1.2.5.c.obj
-.PHONY : firstPacket/num1.2.5.obj
+can_form_triangle.obj: can_form_triangle.c.obj
+.PHONY : can_form_triangle.obj
 
 # target to build an object file
-firstPacket/num1.2.5.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.obj
-.PHONY : firstPacket/num1.2.5.c.obj
+can_form_triangle.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/can_form_triangle.c.obj
+.PHONY : can_form_triangle.c.obj
 
-firstPacket/num1.2.5.i: firstPacket/num1.2.5.c.i
-.PHONY : firstPacket/num1.2.5.i
+can_form_triangle.i: can_form_triangle.c.i
+.PHONY : can_form_triangle.i
 
 # target to preprocess a source file
-firstPacket/num1.2.5.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.i
-.PHONY : firstPacket/num1.2.5.c.i
+can_form_triangle.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/can_form_triangle.c.i
+.PHONY : can_form_triangle.c.i
 
-firstPacket/num1.2.5.s: firstPacket/num1.2.5.c.s
-.PHONY : firstPacket/num1.2.5.s
+can_form_triangle.s: can_form_triangle.c.s
+.PHONY : can_form_triangle.s
 
 # target to generate assembly for a file
-firstPacket/num1.2.5.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/firstPacket/num1.2.5.c.s
-.PHONY : firstPacket/num1.2.5.c.s
+can_form_triangle.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/can_form_triangle.c.s
+.PHONY : can_form_triangle.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... universPrograming0
-	@echo ... firstPacket/num1.2.5.obj
-	@echo ... firstPacket/num1.2.5.i
-	@echo ... firstPacket/num1.2.5.s
+	@echo ... can_form_triangle.obj
+	@echo ... can_form_triangle.i
+	@echo ... can_form_triangle.s
 .PHONY : help
 
 
