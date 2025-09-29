@@ -1,5 +1,5 @@
-#ifndef ARRAY_OPERATIONS_H
-#define ARRAY_OPERATIONS_H
+#ifndef NUM1_3_10_H
+#define NUM1_3_10_H
 
 void calculateHalfSums(int arr[], int size);
 

@@ -12,4 +12,5 @@ CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj: \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
  C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\headerFiles/array_io.h \
- C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\headerFiles/num1.3.10.h
+ C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\headerFiles/num1.3.10.h \
+ C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\headerFiles/num1.3.15.h

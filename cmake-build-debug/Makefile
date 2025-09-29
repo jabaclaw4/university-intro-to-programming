@@ -176,29 +176,29 @@ secondPacket/operations/array_io.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.s
 .PHONY : secondPacket/operations/array_io.c.s
 
-secondPacket/operations/num1.3.10.obj: secondPacket/operations/num1.3.10.c.obj
-.PHONY : secondPacket/operations/num1.3.10.obj
+secondPacket/operations/num1.3.15.obj: secondPacket/operations/num1.3.15.c.obj
+.PHONY : secondPacket/operations/num1.3.15.obj
 
 # target to build an object file
-secondPacket/operations/num1.3.10.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.10.c.obj
-.PHONY : secondPacket/operations/num1.3.10.c.obj
+secondPacket/operations/num1.3.15.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.15.c.obj
+.PHONY : secondPacket/operations/num1.3.15.c.obj
 
-secondPacket/operations/num1.3.10.i: secondPacket/operations/num1.3.10.c.i
-.PHONY : secondPacket/operations/num1.3.10.i
+secondPacket/operations/num1.3.15.i: secondPacket/operations/num1.3.15.c.i
+.PHONY : secondPacket/operations/num1.3.15.i
 
 # target to preprocess a source file
-secondPacket/operations/num1.3.10.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.10.c.i
-.PHONY : secondPacket/operations/num1.3.10.c.i
+secondPacket/operations/num1.3.15.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.15.c.i
+.PHONY : secondPacket/operations/num1.3.15.c.i
 
-secondPacket/operations/num1.3.10.s: secondPacket/operations/num1.3.10.c.s
-.PHONY : secondPacket/operations/num1.3.10.s
+secondPacket/operations/num1.3.15.s: secondPacket/operations/num1.3.15.c.s
+.PHONY : secondPacket/operations/num1.3.15.s
 
 # target to generate assembly for a file
-secondPacket/operations/num1.3.10.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.10.c.s
-.PHONY : secondPacket/operations/num1.3.10.c.s
+secondPacket/operations/num1.3.15.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.15.c.s
+.PHONY : secondPacket/operations/num1.3.15.c.s
 
 # Help Target
 help:
@@ -215,9 +215,9 @@ help:
 	@echo ... secondPacket/operations/array_io.obj
 	@echo ... secondPacket/operations/array_io.i
 	@echo ... secondPacket/operations/array_io.s
-	@echo ... secondPacket/operations/num1.3.10.obj
-	@echo ... secondPacket/operations/num1.3.10.i
-	@echo ... secondPacket/operations/num1.3.10.s
+	@echo ... secondPacket/operations/num1.3.15.obj
+	@echo ... secondPacket/operations/num1.3.15.i
+	@echo ... secondPacket/operations/num1.3.15.s
 .PHONY : help
 
 
