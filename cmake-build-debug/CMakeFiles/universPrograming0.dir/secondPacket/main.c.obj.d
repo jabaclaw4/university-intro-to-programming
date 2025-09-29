@@ -14,4 +14,5 @@ CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj: \
  C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\headerFiles/array_io.h \
  C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\headerFiles/num1.3.10.h \
  C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\headerFiles/num1.3.15.h \
- C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\headerFiles/num1.3.19.h
+ C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\headerFiles/num1.3.19.h \
+ C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\headerFiles/num1.3.27.h

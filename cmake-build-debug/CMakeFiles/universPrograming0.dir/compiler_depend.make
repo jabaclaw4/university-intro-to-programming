@@ -16,7 +16,8 @@ CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj: C:/Users/User/CLionPr
   C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/headerFiles/array_io.h \
   C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/headerFiles/num1.3.10.h \
   C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/headerFiles/num1.3.15.h \
-  C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/headerFiles/num1.3.19.h
+  C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/headerFiles/num1.3.19.h \
+  C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/headerFiles/num1.3.27.h
 
 CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/array_io.c \
   C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
@@ -32,15 +33,19 @@ CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj: C:/Use
   C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
   C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/headerFiles/array_io.h
 
-CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.19.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/num1.3.19.c \
-  C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/headerFiles/num1.3.19.h
+CMakeFiles/universPrograming0.dir/secondPacket/operations/num1.3.27.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/num1.3.27.c \
+  C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/headerFiles/num1.3.27.h
 
+
+C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/headerFiles/num1.3.27.h:
 
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h:
 
 C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/main.c:
 
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h:
+
+C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/num1.3.27.c:
 
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/_mingw.h:
 
@@ -51,8 +56,6 @@ C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/_
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/corecrt.h:
 
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h:
-
-C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/num1.3.19.c:
 
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl:
 

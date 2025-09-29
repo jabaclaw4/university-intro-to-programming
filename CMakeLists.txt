@@ -9,5 +9,5 @@ set(CMAKE_C_STANDARD 11)
 add_executable(universPrograming0
         secondPacket/main.c #статично
         secondPacket/operations/array_io.c #статично
-        secondPacket/operations/num1.3.19.c
+        secondPacket/operations/num1.3.27.c
 )
