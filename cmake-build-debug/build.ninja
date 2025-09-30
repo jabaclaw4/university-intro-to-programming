@@ -49,11 +49,23 @@ cmake_ninja_workdir = C$:/Users/nasty/CLionProjects/universPrograming/cmake-buil
 
 build cmake_object_order_depends_target_universPrograming0: phony || CMakeFiles/universPrograming0.dir
 
-build CMakeFiles/universPrograming0.dir/firstPacket/doTriangle.c.obj: C_COMPILER__universPrograming0_unscanned_Debug C$:/Users/nasty/CLionProjects/universPrograming/firstPacket/doTriangle.c || cmake_object_order_depends_target_universPrograming0
-  DEP_FILE = CMakeFiles\universPrograming0.dir\firstPacket\doTriangle.c.obj.d
+build CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj: C_COMPILER__universPrograming0_unscanned_Debug C$:/Users/nasty/CLionProjects/universPrograming/secondPacket/main.c || cmake_object_order_depends_target_universPrograming0
+  DEP_FILE = CMakeFiles\universPrograming0.dir\secondPacket\main.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\universPrograming0.dir
-  OBJECT_FILE_DIR = CMakeFiles\universPrograming0.dir\firstPacket
+  OBJECT_FILE_DIR = CMakeFiles\universPrograming0.dir\secondPacket
+
+build CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj: C_COMPILER__universPrograming0_unscanned_Debug C$:/Users/nasty/CLionProjects/universPrograming/secondPacket/operations/array_io.c || cmake_object_order_depends_target_universPrograming0
+  DEP_FILE = CMakeFiles\universPrograming0.dir\secondPacket\operations\array_io.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\universPrograming0.dir
+  OBJECT_FILE_DIR = CMakeFiles\universPrograming0.dir\secondPacket\operations
+
+build CMakeFiles/universPrograming0.dir/secondPacket/operations/bubbleSort.c.obj: C_COMPILER__universPrograming0_unscanned_Debug C$:/Users/nasty/CLionProjects/universPrograming/secondPacket/operations/bubbleSort.c || cmake_object_order_depends_target_universPrograming0
+  DEP_FILE = CMakeFiles\universPrograming0.dir\secondPacket\operations\bubbleSort.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\universPrograming0.dir
+  OBJECT_FILE_DIR = CMakeFiles\universPrograming0.dir\secondPacket\operations
 
 
 # =============================================================================
@@ -63,7 +75,7 @@ build CMakeFiles/universPrograming0.dir/firstPacket/doTriangle.c.obj: C_COMPILER
 #############################################
 # Link the executable universPrograming0.exe
 
-build universPrograming0.exe: C_EXECUTABLE_LINKER__universPrograming0_Debug CMakeFiles/universPrograming0.dir/firstPacket/doTriangle.c.obj
+build universPrograming0.exe: C_EXECUTABLE_LINKER__universPrograming0_Debug CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj CMakeFiles/universPrograming0.dir/secondPacket/operations/bubbleSort.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\universPrograming0.dir
