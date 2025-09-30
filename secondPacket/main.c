@@ -5,6 +5,7 @@
 #include "headerFiles/num1.3.19.h"
 #include "headerFiles/num1.3.27.h"
 #include "headerFiles/bubbleSort.h"
+#include "headerFiles/quickSort.h"
 
 int main() {
     const int n = 6;
@@ -30,7 +31,7 @@ int main() {
 
 //    for (i = 0; i <= len; i++)
 //        printf("%d ",binomK(len,i)); для последней задачи
-    bubble(a,n);
+    quick(a,0,n-1);
     printArray(a,n);
     return 0;
 }

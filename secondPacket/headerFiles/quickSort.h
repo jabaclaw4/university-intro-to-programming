@@ -1,6 +1,6 @@
 #ifndef QUICK
 #define QUICK
 
-void quick(int arr[], int size);
+void quick(int arr[], int left, int right);
 
 #endif
