@@ -3,5 +3,6 @@
 
 void inputArray(int arr[], int size);
 void printArray(int arr[], int size);
+void inputRandArray(int arr[], int size);
 
 #endif

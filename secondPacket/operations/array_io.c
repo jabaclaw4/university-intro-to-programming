@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 #include "../headerFiles/array_io.h"
 
 void inputArray(int arr[], int size) {
@@ -12,5 +14,13 @@ void printArray(int arr[], int size) {
     for (int i = 0; i < size; i++) {
         printf("%d ", arr[i]);
     }
-//    printf("\n");
+    printf("\n");
+}
+
+void inputRandArray(int arr[], int size) {
+    srand(time(NULL));
+    printf("%d elements of the array (before): ", size);
+    for (int i = 0; i < size; i++) {
+        arr[i] = rand() % 100;
+    }
 }
