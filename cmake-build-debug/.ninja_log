@@ -1,11 +1,8 @@
 # ninja log v6
 486	946	7795315680297500	universPrograming1.exe	c776d5026e4a748e
 252	431	7809368305186619	CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj	1b59e6ed78b59514
-435	858	7809371284726324	universPrograming0.exe	1f64a3c9690bac82
-375	2180	7809452696949476	build.ninja	a4e9fa2fc65b5ea6
+588	894	7809452705038068	universPrograming0.exe	d5e36acf0c2f1b70
+51	729	7810129276842526	build.ninja	a4e9fa2fc65b5ea6
 46	434	7809371280835007	CMakeFiles/universPrograming0.dir/secondPacket/operations/bubbleSort.c.obj	613e64e18306ad1a
-65	250	7809368303325498	CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj	7ce80c3a7a8da74b
-51	729	7809452696949476	build.ninja	a4e9fa2fc65b5ea6
 47	353	7809452699630774	CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj	7ce80c3a7a8da74b
 355	588	7809452702706987	CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.obj	2efb8de342454be6
-588	894	7809452705038068	universPrograming0.exe	d5e36acf0c2f1b70
