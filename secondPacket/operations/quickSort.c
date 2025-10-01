@@ -1,20 +1,20 @@
 #include "../headerFiles/quickSort.h"
 
-void quick(int arr[], int left, int right) {
+void quick(int arr[], int left, int right) { //выбрать пайвотом медиану массива
     if (left >= right) return;
-    int pivot = arr[right], i = left;
-    for (int j = left; j < right; j++) {
-        if (arr[j] < pivot) {
-            int temp = arr[i];
+    int p = arr[(right+left)/2], i = left, j = right;
+    while (i <= j) {
+        while (arr[i] < p) i++;
+        while (arr[j] > p) j--;
+        if (i <= j) {
+            int tmp;
+            tmp = arr[i];
             arr[i] = arr[j];
-            arr[j] = temp;
+            arr[j] = tmp;
             i++;
+            j--;
         }
     }
-    int temp = arr[i];
-    arr[i] = arr[right];
-    arr[right] = temp;
-
-    quick(arr, left, i - 1);
-    quick(arr, i + 1, right);
+    quick(arr,left,j);
+    quick(arr,i,right);
 }

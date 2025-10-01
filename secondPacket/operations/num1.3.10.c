@@ -8,3 +8,5 @@ void calculateHalfSums(int arr[], int size) {
         prev = current;
     }
 }
+
+
