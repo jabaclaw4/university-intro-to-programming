@@ -13,7 +13,7 @@ int main() {
     clock_t start, end;
     double cpu_time_used;
     start = clock();
-    const int n = 100;
+    const int n = 1000;
     int a[n];
     inputRandArray(a, n);
     printArray(a,n);

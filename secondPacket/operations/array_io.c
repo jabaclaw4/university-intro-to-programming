@@ -21,6 +21,6 @@ void inputRandArray(int arr[], int size) {
     srand(time(NULL));
     printf("%d elements of the array (before): ", size);
     for (int i = 0; i < size; i++) {
-        arr[i] = rand() % 100;
+        arr[i] = rand() % 1000;
     }
 }
