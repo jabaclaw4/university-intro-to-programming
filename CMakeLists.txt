@@ -7,7 +7,7 @@ set(CMAKE_C_STANDARD 11)
 #add_executable(universPrograming1 firstPacket/num1.2.1.c)
 
 add_executable(universPrograming0
-        secondPacket/main.c #статично
-        secondPacket/operations/array_io.c #статично
-        secondPacket/operations/quickSort.c
+        thirdPacket/main.c #статично
+        thirdPacket/operations/array_io.c #статично
+        thirdPacket/operations/quickSort.c
 )
