@@ -96,32 +96,32 @@ CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\arrayIO.c -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\arrayIO.c.s
 
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj: CMakeFiles/universPrograming0.dir/flags.make
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/maxAndMin.c
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj -MF CMakeFiles\universPrograming0.dir\thirdPacket\operations\maxAndMin.c.obj.d -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\maxAndMin.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\maxAndMin.c
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj: CMakeFiles/universPrograming0.dir/flags.make
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/sum_aveArray.c
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj -MF CMakeFiles\universPrograming0.dir\thirdPacket\operations\sum_aveArray.c.obj.d -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\sum_aveArray.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\sum_aveArray.c
 
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\maxAndMin.c > CMakeFiles\universPrograming0.dir\thirdPacket\operations\maxAndMin.c.i
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\sum_aveArray.c > CMakeFiles\universPrograming0.dir\thirdPacket\operations\sum_aveArray.c.i
 
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\maxAndMin.c -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\maxAndMin.c.s
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\sum_aveArray.c -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\sum_aveArray.c.s
 
 # Object files for target universPrograming0
 universPrograming0_OBJECTS = \
 "CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj" \
 "CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj" \
-"CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj"
+"CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj"
 
 # External object files for target universPrograming0
 universPrograming0_EXTERNAL_OBJECTS =
 
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj
-universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj
+universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/build.make
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/linkLibs.rsp
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/objects1.rsp

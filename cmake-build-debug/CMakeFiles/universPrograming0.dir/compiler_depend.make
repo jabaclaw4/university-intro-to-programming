@@ -41,9 +41,6 @@ CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj: C:/Users
   C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
   C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/arrayIO.h
 
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/maxAndMin.c \
-  C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/maxAndMin.h
-
 
 C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/main.c:
 
@@ -92,8 +89,6 @@ C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/s
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/stdio.h:
 
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/vadefs.h:
-
-C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/maxAndMin.c:
 
 C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/reverse.h:
 

@@ -10,7 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/main.c" "CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj.d"
   "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/arrayIO.c" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj.d"
-  "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/maxAndMin.c" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj.d"
+  "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/sum_aveArray.c" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

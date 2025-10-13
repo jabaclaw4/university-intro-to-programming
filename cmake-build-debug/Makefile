@@ -176,29 +176,29 @@ thirdPacket/operations/arrayIO.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s
 .PHONY : thirdPacket/operations/arrayIO.c.s
 
-thirdPacket/operations/maxAndMin.obj: thirdPacket/operations/maxAndMin.c.obj
-.PHONY : thirdPacket/operations/maxAndMin.obj
+thirdPacket/operations/sum_aveArray.obj: thirdPacket/operations/sum_aveArray.c.obj
+.PHONY : thirdPacket/operations/sum_aveArray.obj
 
 # target to build an object file
-thirdPacket/operations/maxAndMin.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj
-.PHONY : thirdPacket/operations/maxAndMin.c.obj
+thirdPacket/operations/sum_aveArray.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj
+.PHONY : thirdPacket/operations/sum_aveArray.c.obj
 
-thirdPacket/operations/maxAndMin.i: thirdPacket/operations/maxAndMin.c.i
-.PHONY : thirdPacket/operations/maxAndMin.i
+thirdPacket/operations/sum_aveArray.i: thirdPacket/operations/sum_aveArray.c.i
+.PHONY : thirdPacket/operations/sum_aveArray.i
 
 # target to preprocess a source file
-thirdPacket/operations/maxAndMin.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.i
-.PHONY : thirdPacket/operations/maxAndMin.c.i
+thirdPacket/operations/sum_aveArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.i
+.PHONY : thirdPacket/operations/sum_aveArray.c.i
 
-thirdPacket/operations/maxAndMin.s: thirdPacket/operations/maxAndMin.c.s
-.PHONY : thirdPacket/operations/maxAndMin.s
+thirdPacket/operations/sum_aveArray.s: thirdPacket/operations/sum_aveArray.c.s
+.PHONY : thirdPacket/operations/sum_aveArray.s
 
 # target to generate assembly for a file
-thirdPacket/operations/maxAndMin.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.s
-.PHONY : thirdPacket/operations/maxAndMin.c.s
+thirdPacket/operations/sum_aveArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.s
+.PHONY : thirdPacket/operations/sum_aveArray.c.s
 
 # Help Target
 help:
@@ -215,9 +215,9 @@ help:
 	@echo ... thirdPacket/operations/arrayIO.obj
 	@echo ... thirdPacket/operations/arrayIO.i
 	@echo ... thirdPacket/operations/arrayIO.s
-	@echo ... thirdPacket/operations/maxAndMin.obj
-	@echo ... thirdPacket/operations/maxAndMin.i
-	@echo ... thirdPacket/operations/maxAndMin.s
+	@echo ... thirdPacket/operations/sum_aveArray.obj
+	@echo ... thirdPacket/operations/sum_aveArray.i
+	@echo ... thirdPacket/operations/sum_aveArray.s
 .PHONY : help
 
 
