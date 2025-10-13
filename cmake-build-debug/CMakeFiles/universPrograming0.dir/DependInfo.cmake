@@ -10,7 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/main.c" "CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj.d"
   "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/arrayIO.c" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj.d"
-  "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/copyArray.c" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj.d"
+  "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/deleteArray.c" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -96,32 +96,32 @@ CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\arrayIO.c -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\arrayIO.c.s
 
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj: CMakeFiles/universPrograming0.dir/flags.make
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/copyArray.c
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj -MF CMakeFiles\universPrograming0.dir\thirdPacket\operations\copyArray.c.obj.d -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\copyArray.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\copyArray.c
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj: CMakeFiles/universPrograming0.dir/flags.make
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/deleteArray.c
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj -MF CMakeFiles\universPrograming0.dir\thirdPacket\operations\deleteArray.c.obj.d -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\deleteArray.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\deleteArray.c
 
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\copyArray.c > CMakeFiles\universPrograming0.dir\thirdPacket\operations\copyArray.c.i
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\deleteArray.c > CMakeFiles\universPrograming0.dir\thirdPacket\operations\deleteArray.c.i
 
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\copyArray.c -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\copyArray.c.s
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\deleteArray.c -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\deleteArray.c.s
 
 # Object files for target universPrograming0
 universPrograming0_OBJECTS = \
 "CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj" \
 "CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj" \
-"CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj"
+"CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj"
 
 # External object files for target universPrograming0
 universPrograming0_EXTERNAL_OBJECTS =
 
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj
-universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj
+universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/build.make
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/linkLibs.rsp
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/objects1.rsp

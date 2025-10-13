@@ -176,29 +176,29 @@ thirdPacket/operations/arrayIO.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s
 .PHONY : thirdPacket/operations/arrayIO.c.s
 
-thirdPacket/operations/copyArray.obj: thirdPacket/operations/copyArray.c.obj
-.PHONY : thirdPacket/operations/copyArray.obj
+thirdPacket/operations/deleteArray.obj: thirdPacket/operations/deleteArray.c.obj
+.PHONY : thirdPacket/operations/deleteArray.obj
 
 # target to build an object file
-thirdPacket/operations/copyArray.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj
-.PHONY : thirdPacket/operations/copyArray.c.obj
+thirdPacket/operations/deleteArray.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj
+.PHONY : thirdPacket/operations/deleteArray.c.obj
 
-thirdPacket/operations/copyArray.i: thirdPacket/operations/copyArray.c.i
-.PHONY : thirdPacket/operations/copyArray.i
+thirdPacket/operations/deleteArray.i: thirdPacket/operations/deleteArray.c.i
+.PHONY : thirdPacket/operations/deleteArray.i
 
 # target to preprocess a source file
-thirdPacket/operations/copyArray.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.i
-.PHONY : thirdPacket/operations/copyArray.c.i
+thirdPacket/operations/deleteArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.i
+.PHONY : thirdPacket/operations/deleteArray.c.i
 
-thirdPacket/operations/copyArray.s: thirdPacket/operations/copyArray.c.s
-.PHONY : thirdPacket/operations/copyArray.s
+thirdPacket/operations/deleteArray.s: thirdPacket/operations/deleteArray.c.s
+.PHONY : thirdPacket/operations/deleteArray.s
 
 # target to generate assembly for a file
-thirdPacket/operations/copyArray.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.s
-.PHONY : thirdPacket/operations/copyArray.c.s
+thirdPacket/operations/deleteArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.s
+.PHONY : thirdPacket/operations/deleteArray.c.s
 
 # Help Target
 help:
@@ -215,9 +215,9 @@ help:
 	@echo ... thirdPacket/operations/arrayIO.obj
 	@echo ... thirdPacket/operations/arrayIO.i
 	@echo ... thirdPacket/operations/arrayIO.s
-	@echo ... thirdPacket/operations/copyArray.obj
-	@echo ... thirdPacket/operations/copyArray.i
-	@echo ... thirdPacket/operations/copyArray.s
+	@echo ... thirdPacket/operations/deleteArray.obj
+	@echo ... thirdPacket/operations/deleteArray.i
+	@echo ... thirdPacket/operations/deleteArray.s
 .PHONY : help
 
 

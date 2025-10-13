@@ -25,6 +25,7 @@ CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj: C:/Users/User/CLionPro
   C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
   C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/arrayIO.h \
   C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/copyArray.h \
+  C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/deleteArray.h \
   C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/maxAndMin.h \
   C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/reverse.h \
   C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/sum_aveArray.h
@@ -43,8 +44,8 @@ CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj: C:/Users
   C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
   C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/arrayIO.h
 
-CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/copyArray.c \
-  C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/copyArray.h
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/deleteArray.c \
+  C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/deleteArray.h
 
 
 C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/main.c:
@@ -54,8 +55,6 @@ C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/1
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/corecrt.h:
 
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h:
-
-C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/copyArray.c:
 
 C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h:
 
@@ -99,8 +98,12 @@ C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/v
 
 C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/copyArray.h:
 
+C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/deleteArray.h:
+
 C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/reverse.h:
 
 C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/headerFiles/sum_aveArray.h:
 
 C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/arrayIO.c:
+
+C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/deleteArray.c:
