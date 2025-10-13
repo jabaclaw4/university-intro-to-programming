@@ -6,9 +6,11 @@
 #include "headerFiles/sum_aveArray.h"
 #include "headerFiles/copyArray.h"
 #include "headerFiles/deleteArray.h"
+#include "headerFiles/swapAny.h"
 
 int main() {
     int n = getArraySize(), sum = 0, ave = 0, max, min, newSize;
+    int a = 5, b = 10;
     int *arr = NULL, *arrCopy = NULL, *arrDelete = NULL;
 
     arr = (int*)malloc(n * sizeof(int));
@@ -44,9 +46,11 @@ int main() {
 //    printArray(arr, n);
 //    printArray(arrCopy, n);
 
-    deleteArray(arr, arrDelete, n, &newSize); // #5
-    printArray(arr, n);
-    printArray(arrDelete, newSize);
+//    deleteArray(arr, arrDelete, n, &newSize); // #5
+//    printArray(arr, n);
+//    printArray(arrDelete, newSize);
+
+    swapAny(&a, &b, sizeof(int)); // #6
 
     free(arr);
     arr = NULL;
