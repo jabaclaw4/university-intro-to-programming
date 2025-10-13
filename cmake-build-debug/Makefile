@@ -176,29 +176,29 @@ thirdPacket/operations/arrayIO.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s
 .PHONY : thirdPacket/operations/arrayIO.c.s
 
-thirdPacket/operations/reverse.obj: thirdPacket/operations/reverse.c.obj
-.PHONY : thirdPacket/operations/reverse.obj
+thirdPacket/operations/maxAndMin.obj: thirdPacket/operations/maxAndMin.c.obj
+.PHONY : thirdPacket/operations/maxAndMin.obj
 
 # target to build an object file
-thirdPacket/operations/reverse.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.obj
-.PHONY : thirdPacket/operations/reverse.c.obj
+thirdPacket/operations/maxAndMin.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.obj
+.PHONY : thirdPacket/operations/maxAndMin.c.obj
 
-thirdPacket/operations/reverse.i: thirdPacket/operations/reverse.c.i
-.PHONY : thirdPacket/operations/reverse.i
+thirdPacket/operations/maxAndMin.i: thirdPacket/operations/maxAndMin.c.i
+.PHONY : thirdPacket/operations/maxAndMin.i
 
 # target to preprocess a source file
-thirdPacket/operations/reverse.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.i
-.PHONY : thirdPacket/operations/reverse.c.i
+thirdPacket/operations/maxAndMin.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.i
+.PHONY : thirdPacket/operations/maxAndMin.c.i
 
-thirdPacket/operations/reverse.s: thirdPacket/operations/reverse.c.s
-.PHONY : thirdPacket/operations/reverse.s
+thirdPacket/operations/maxAndMin.s: thirdPacket/operations/maxAndMin.c.s
+.PHONY : thirdPacket/operations/maxAndMin.s
 
 # target to generate assembly for a file
-thirdPacket/operations/reverse.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.s
-.PHONY : thirdPacket/operations/reverse.c.s
+thirdPacket/operations/maxAndMin.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/maxAndMin.c.s
+.PHONY : thirdPacket/operations/maxAndMin.c.s
 
 # Help Target
 help:
@@ -215,9 +215,9 @@ help:
 	@echo ... thirdPacket/operations/arrayIO.obj
 	@echo ... thirdPacket/operations/arrayIO.i
 	@echo ... thirdPacket/operations/arrayIO.s
-	@echo ... thirdPacket/operations/reverse.obj
-	@echo ... thirdPacket/operations/reverse.i
-	@echo ... thirdPacket/operations/reverse.s
+	@echo ... thirdPacket/operations/maxAndMin.obj
+	@echo ... thirdPacket/operations/maxAndMin.i
+	@echo ... thirdPacket/operations/maxAndMin.s
 .PHONY : help
 
 
