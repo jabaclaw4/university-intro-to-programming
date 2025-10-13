@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "../headerFiles/arrayIO.h"
 
 void inputArray(int *arr, int n) {
     int *ptr = arr;
@@ -18,7 +19,7 @@ void printArray(int *arr, int N) {
 
 int getArraySize() {
     int size;
-    printf("input size of array: ");
+    printf("input size of array:");
     scanf("%d", &size);
     return size;
 }

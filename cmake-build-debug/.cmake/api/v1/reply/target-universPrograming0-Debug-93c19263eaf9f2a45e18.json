@@ -102,19 +102,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "secondPacket/main.c",
+			"path" : "thirdPacket/main.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "secondPacket/operations/array_io.c",
+			"path" : "thirdPacket/operations/arrayIO.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "secondPacket/operations/quickSort.c",
+			"path" : "thirdPacket/operations/reverse.c",
 			"sourceGroupIndex" : 0
 		}
 	],

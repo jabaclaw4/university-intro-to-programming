@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/main.c" "CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj.d"
-  "C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/array_io.c" "CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj.d"
-  "C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/quickSort.c" "CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.obj.d"
+  "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/main.c" "CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj.d"
+  "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/arrayIO.c" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj.d"
+  "C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/reverse.c" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

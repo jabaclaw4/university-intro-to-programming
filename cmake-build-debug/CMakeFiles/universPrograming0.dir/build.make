@@ -68,60 +68,60 @@ include CMakeFiles/universPrograming0.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/universPrograming0.dir/flags.make
 
-CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj: CMakeFiles/universPrograming0.dir/flags.make
-CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/main.c
-CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj -MF CMakeFiles\universPrograming0.dir\secondPacket\main.c.obj.d -o CMakeFiles\universPrograming0.dir\secondPacket\main.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\main.c
+CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj: CMakeFiles/universPrograming0.dir/flags.make
+CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/main.c
+CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj -MF CMakeFiles\universPrograming0.dir\thirdPacket\main.c.obj.d -o CMakeFiles\universPrograming0.dir\thirdPacket\main.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\main.c
 
-CMakeFiles/universPrograming0.dir/secondPacket/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/secondPacket/main.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\main.c > CMakeFiles\universPrograming0.dir\secondPacket\main.c.i
+CMakeFiles/universPrograming0.dir/thirdPacket/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/thirdPacket/main.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\main.c > CMakeFiles\universPrograming0.dir\thirdPacket\main.c.i
 
-CMakeFiles/universPrograming0.dir/secondPacket/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/secondPacket/main.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\main.c -o CMakeFiles\universPrograming0.dir\secondPacket\main.c.s
+CMakeFiles/universPrograming0.dir/thirdPacket/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/thirdPacket/main.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\main.c -o CMakeFiles\universPrograming0.dir\thirdPacket\main.c.s
 
-CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj: CMakeFiles/universPrograming0.dir/flags.make
-CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/array_io.c
-CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj -MF CMakeFiles\universPrograming0.dir\secondPacket\operations\array_io.c.obj.d -o CMakeFiles\universPrograming0.dir\secondPacket\operations\array_io.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\operations\array_io.c
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj: CMakeFiles/universPrograming0.dir/flags.make
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/arrayIO.c
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj -MF CMakeFiles\universPrograming0.dir\thirdPacket\operations\arrayIO.c.obj.d -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\arrayIO.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\arrayIO.c
 
-CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\operations\array_io.c > CMakeFiles\universPrograming0.dir\secondPacket\operations\array_io.c.i
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\arrayIO.c > CMakeFiles\universPrograming0.dir\thirdPacket\operations\arrayIO.c.i
 
-CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\operations\array_io.c -o CMakeFiles\universPrograming0.dir\secondPacket\operations\array_io.c.s
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\arrayIO.c -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\arrayIO.c.s
 
-CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.obj: CMakeFiles/universPrograming0.dir/flags.make
-CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/secondPacket/operations/quickSort.c
-CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.obj -MF CMakeFiles\universPrograming0.dir\secondPacket\operations\quickSort.c.obj.d -o CMakeFiles\universPrograming0.dir\secondPacket\operations\quickSort.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\operations\quickSort.c
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.obj: CMakeFiles/universPrograming0.dir/flags.make
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/thirdPacket/operations/reverse.c
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.obj -MF CMakeFiles\universPrograming0.dir\thirdPacket\operations\reverse.c.obj.d -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\reverse.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\reverse.c
 
-CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\operations\quickSort.c > CMakeFiles\universPrograming0.dir\secondPacket\operations\quickSort.c.i
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\reverse.c > CMakeFiles\universPrograming0.dir\thirdPacket\operations\reverse.c.i
 
-CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\secondPacket\operations\quickSort.c -o CMakeFiles\universPrograming0.dir\secondPacket\operations\quickSort.c.s
+CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\thirdPacket\operations\reverse.c -o CMakeFiles\universPrograming0.dir\thirdPacket\operations\reverse.c.s
 
 # Object files for target universPrograming0
 universPrograming0_OBJECTS = \
-"CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj" \
-"CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj" \
-"CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.obj"
+"CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj" \
+"CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj" \
+"CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.obj"
 
 # External object files for target universPrograming0
 universPrograming0_EXTERNAL_OBJECTS =
 
-universPrograming0.exe: CMakeFiles/universPrograming0.dir/secondPacket/main.c.obj
-universPrograming0.exe: CMakeFiles/universPrograming0.dir/secondPacket/operations/array_io.c.obj
-universPrograming0.exe: CMakeFiles/universPrograming0.dir/secondPacket/operations/quickSort.c.obj
+universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj
+universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj
+universPrograming0.exe: CMakeFiles/universPrograming0.dir/thirdPacket/operations/reverse.c.obj
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/build.make
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/linkLibs.rsp
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/objects1.rsp

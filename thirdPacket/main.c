@@ -7,8 +7,7 @@ int main() {
     int *arr = NULL;
     arr = (int*)malloc(n * sizeof(int));
     inputArray(arr, n);
-    reverse(arr, n);
-    printArray(arr, n);
+    reverse(arr, n); // вывод в обратном порядке
     free(arr);
     arr = NULL;
     return 0;

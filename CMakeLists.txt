@@ -8,6 +8,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(universPrograming0
         thirdPacket/main.c #статично
-        thirdPacket/operations/array_io.c #статично
-        thirdPacket/operations/quickSort.c
+        thirdPacket/operations/arrayIO.c #статично
+        thirdPacket/operations/reverse.c
 )
