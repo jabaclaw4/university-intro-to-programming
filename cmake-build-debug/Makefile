@@ -176,29 +176,29 @@ thirdPacket/operations/arrayIO.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s
 .PHONY : thirdPacket/operations/arrayIO.c.s
 
-thirdPacket/operations/sum_aveArray.obj: thirdPacket/operations/sum_aveArray.c.obj
-.PHONY : thirdPacket/operations/sum_aveArray.obj
+thirdPacket/operations/copyArray.obj: thirdPacket/operations/copyArray.c.obj
+.PHONY : thirdPacket/operations/copyArray.obj
 
 # target to build an object file
-thirdPacket/operations/sum_aveArray.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.obj
-.PHONY : thirdPacket/operations/sum_aveArray.c.obj
+thirdPacket/operations/copyArray.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.obj
+.PHONY : thirdPacket/operations/copyArray.c.obj
 
-thirdPacket/operations/sum_aveArray.i: thirdPacket/operations/sum_aveArray.c.i
-.PHONY : thirdPacket/operations/sum_aveArray.i
+thirdPacket/operations/copyArray.i: thirdPacket/operations/copyArray.c.i
+.PHONY : thirdPacket/operations/copyArray.i
 
 # target to preprocess a source file
-thirdPacket/operations/sum_aveArray.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.i
-.PHONY : thirdPacket/operations/sum_aveArray.c.i
+thirdPacket/operations/copyArray.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.i
+.PHONY : thirdPacket/operations/copyArray.c.i
 
-thirdPacket/operations/sum_aveArray.s: thirdPacket/operations/sum_aveArray.c.s
-.PHONY : thirdPacket/operations/sum_aveArray.s
+thirdPacket/operations/copyArray.s: thirdPacket/operations/copyArray.c.s
+.PHONY : thirdPacket/operations/copyArray.s
 
 # target to generate assembly for a file
-thirdPacket/operations/sum_aveArray.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/sum_aveArray.c.s
-.PHONY : thirdPacket/operations/sum_aveArray.c.s
+thirdPacket/operations/copyArray.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/copyArray.c.s
+.PHONY : thirdPacket/operations/copyArray.c.s
 
 # Help Target
 help:
@@ -215,9 +215,9 @@ help:
 	@echo ... thirdPacket/operations/arrayIO.obj
 	@echo ... thirdPacket/operations/arrayIO.i
 	@echo ... thirdPacket/operations/arrayIO.s
-	@echo ... thirdPacket/operations/sum_aveArray.obj
-	@echo ... thirdPacket/operations/sum_aveArray.i
-	@echo ... thirdPacket/operations/sum_aveArray.s
+	@echo ... thirdPacket/operations/copyArray.obj
+	@echo ... thirdPacket/operations/copyArray.i
+	@echo ... thirdPacket/operations/copyArray.s
 .PHONY : help
 
 

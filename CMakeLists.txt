@@ -9,5 +9,5 @@ set(CMAKE_C_STANDARD 11)
 add_executable(universPrograming0
         thirdPacket/main.c #статично
         thirdPacket/operations/arrayIO.c #статично
-        thirdPacket/operations/sum_aveArray.c
+        thirdPacket/operations/copyArray.c
 )
