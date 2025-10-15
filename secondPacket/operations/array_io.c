@@ -24,3 +24,10 @@ void inputRandArray(int arr[], int size) {
         arr[i] = rand() % 1000;
     }
 }
+
+int getArraySize() {
+    int size;
+    printf("input size of array: ");
+    scanf("%d", &size);
+    return size;
+}
