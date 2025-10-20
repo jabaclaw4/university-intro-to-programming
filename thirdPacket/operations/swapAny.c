@@ -4,9 +4,9 @@
 
 void swapAny(void *a, void *b, size_t size) {
     char temp[size];
-    memcpy(temp, a, size);  // A → temp
-    memcpy(a, b, size);     // B → A
-    memcpy(b, temp, size);  // temp → B
+    memcpy(temp, a, size);  // A -> temp
+    memcpy(a, b, size);     // B -> A
+    memcpy(b, temp, size);  // temp -> B
 }
 // в C char всегда имеет размер 1 байт
 // это делает char[] хорошим буфером для побайтовой работы с памятью
