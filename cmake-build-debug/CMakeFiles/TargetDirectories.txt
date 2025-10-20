@@ -1,3 +1,3 @@
-C:/Users/User/CLionProjects/university-intro-to-programming/cmake-build-debug/CMakeFiles/universPrograming0.dir
-C:/Users/User/CLionProjects/university-intro-to-programming/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/university-intro-to-programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/nasty/CLionProjects/universPrograming/cmake-build-debug/CMakeFiles/universPrograming0.dir
+C:/Users/nasty/CLionProjects/universPrograming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nasty/CLionProjects/universPrograming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
