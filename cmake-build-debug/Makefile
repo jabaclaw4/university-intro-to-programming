@@ -128,77 +128,53 @@ universPrograming0/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/build
 .PHONY : universPrograming0/fast
 
-thirdPacket/main.obj: thirdPacket/main.c.obj
-.PHONY : thirdPacket/main.obj
+fourthPacket/main.obj: fourthPacket/main.c.obj
+.PHONY : fourthPacket/main.obj
 
 # target to build an object file
-thirdPacket/main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj
-.PHONY : thirdPacket/main.c.obj
+fourthPacket/main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/fourthPacket/main.c.obj
+.PHONY : fourthPacket/main.c.obj
 
-thirdPacket/main.i: thirdPacket/main.c.i
-.PHONY : thirdPacket/main.i
+fourthPacket/main.i: fourthPacket/main.c.i
+.PHONY : fourthPacket/main.i
 
 # target to preprocess a source file
-thirdPacket/main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/main.c.i
-.PHONY : thirdPacket/main.c.i
+fourthPacket/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/fourthPacket/main.c.i
+.PHONY : fourthPacket/main.c.i
 
-thirdPacket/main.s: thirdPacket/main.c.s
-.PHONY : thirdPacket/main.s
+fourthPacket/main.s: fourthPacket/main.c.s
+.PHONY : fourthPacket/main.s
 
 # target to generate assembly for a file
-thirdPacket/main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/main.c.s
-.PHONY : thirdPacket/main.c.s
+fourthPacket/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/fourthPacket/main.c.s
+.PHONY : fourthPacket/main.c.s
 
-thirdPacket/operations/arrayIO.obj: thirdPacket/operations/arrayIO.c.obj
-.PHONY : thirdPacket/operations/arrayIO.obj
+fourthPacket/operations/stackFunc.obj: fourthPacket/operations/stackFunc.c.obj
+.PHONY : fourthPacket/operations/stackFunc.obj
 
 # target to build an object file
-thirdPacket/operations/arrayIO.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj
-.PHONY : thirdPacket/operations/arrayIO.c.obj
+fourthPacket/operations/stackFunc.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/fourthPacket/operations/stackFunc.c.obj
+.PHONY : fourthPacket/operations/stackFunc.c.obj
 
-thirdPacket/operations/arrayIO.i: thirdPacket/operations/arrayIO.c.i
-.PHONY : thirdPacket/operations/arrayIO.i
-
-# target to preprocess a source file
-thirdPacket/operations/arrayIO.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.i
-.PHONY : thirdPacket/operations/arrayIO.c.i
-
-thirdPacket/operations/arrayIO.s: thirdPacket/operations/arrayIO.c.s
-.PHONY : thirdPacket/operations/arrayIO.s
-
-# target to generate assembly for a file
-thirdPacket/operations/arrayIO.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s
-.PHONY : thirdPacket/operations/arrayIO.c.s
-
-thirdPacket/operations/deleteArray.obj: thirdPacket/operations/deleteArray.c.obj
-.PHONY : thirdPacket/operations/deleteArray.obj
-
-# target to build an object file
-thirdPacket/operations/deleteArray.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj
-.PHONY : thirdPacket/operations/deleteArray.c.obj
-
-thirdPacket/operations/deleteArray.i: thirdPacket/operations/deleteArray.c.i
-.PHONY : thirdPacket/operations/deleteArray.i
+fourthPacket/operations/stackFunc.i: fourthPacket/operations/stackFunc.c.i
+.PHONY : fourthPacket/operations/stackFunc.i
 
 # target to preprocess a source file
-thirdPacket/operations/deleteArray.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.i
-.PHONY : thirdPacket/operations/deleteArray.c.i
+fourthPacket/operations/stackFunc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/fourthPacket/operations/stackFunc.c.i
+.PHONY : fourthPacket/operations/stackFunc.c.i
 
-thirdPacket/operations/deleteArray.s: thirdPacket/operations/deleteArray.c.s
-.PHONY : thirdPacket/operations/deleteArray.s
+fourthPacket/operations/stackFunc.s: fourthPacket/operations/stackFunc.c.s
+.PHONY : fourthPacket/operations/stackFunc.s
 
 # target to generate assembly for a file
-thirdPacket/operations/deleteArray.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.s
-.PHONY : thirdPacket/operations/deleteArray.c.s
+fourthPacket/operations/stackFunc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/fourthPacket/operations/stackFunc.c.s
+.PHONY : fourthPacket/operations/stackFunc.c.s
 
 # Help Target
 help:
@@ -209,15 +185,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... universPrograming0
-	@echo ... thirdPacket/main.obj
-	@echo ... thirdPacket/main.i
-	@echo ... thirdPacket/main.s
-	@echo ... thirdPacket/operations/arrayIO.obj
-	@echo ... thirdPacket/operations/arrayIO.i
-	@echo ... thirdPacket/operations/arrayIO.s
-	@echo ... thirdPacket/operations/deleteArray.obj
-	@echo ... thirdPacket/operations/deleteArray.i
-	@echo ... thirdPacket/operations/deleteArray.s
+	@echo ... fourthPacket/main.obj
+	@echo ... fourthPacket/main.i
+	@echo ... fourthPacket/main.s
+	@echo ... fourthPacket/operations/stackFunc.obj
+	@echo ... fourthPacket/operations/stackFunc.i
+	@echo ... fourthPacket/operations/stackFunc.s
 .PHONY : help
 
 
