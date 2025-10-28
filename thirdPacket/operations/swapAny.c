@@ -1,5 +1,4 @@
 #include "../headerFiles/swapAny.h"
-#include <stdlib.h>
 #include <string.h>
 
 void swapAny(void *a, void *b, size_t size) {
