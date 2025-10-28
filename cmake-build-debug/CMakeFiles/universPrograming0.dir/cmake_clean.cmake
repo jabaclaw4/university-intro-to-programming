@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/universPrograming0.dir/stackPacket/main.c.obj"
-  "CMakeFiles/universPrograming0.dir/stackPacket/main.c.obj.d"
-  "CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.obj"
-  "CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.obj.d"
+  "CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj"
+  "CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj.d"
+  "CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj"
+  "CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj.d"
   "libuniversPrograming0.dll.a"
   "universPrograming0.exe"
   "universPrograming0.exe.manifest"
