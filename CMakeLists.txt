@@ -8,5 +8,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(universPrograming0
         queuePacket/main.c
-        queuePacket/operations/stackFunc.c
+        queuePacket/operations/queueFunc.c
 )
