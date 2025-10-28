@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion2024.1.4\bin\cmake\win\x64\bin\cmake.exe" 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\User\CLionProjects\university-intro-to-programming
+CMAKE_SOURCE_DIR = C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -176,29 +176,29 @@ thirdPacket/operations/arrayIO.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s
 .PHONY : thirdPacket/operations/arrayIO.c.s
 
-thirdPacket/operations/deleteArray.obj: thirdPacket/operations/deleteArray.c.obj
-.PHONY : thirdPacket/operations/deleteArray.obj
+thirdPacket/operations/swapAny.obj: thirdPacket/operations/swapAny.c.obj
+.PHONY : thirdPacket/operations/swapAny.obj
 
 # target to build an object file
-thirdPacket/operations/deleteArray.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.obj
-.PHONY : thirdPacket/operations/deleteArray.c.obj
+thirdPacket/operations/swapAny.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/swapAny.c.obj
+.PHONY : thirdPacket/operations/swapAny.c.obj
 
-thirdPacket/operations/deleteArray.i: thirdPacket/operations/deleteArray.c.i
-.PHONY : thirdPacket/operations/deleteArray.i
+thirdPacket/operations/swapAny.i: thirdPacket/operations/swapAny.c.i
+.PHONY : thirdPacket/operations/swapAny.i
 
 # target to preprocess a source file
-thirdPacket/operations/deleteArray.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.i
-.PHONY : thirdPacket/operations/deleteArray.c.i
+thirdPacket/operations/swapAny.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/swapAny.c.i
+.PHONY : thirdPacket/operations/swapAny.c.i
 
-thirdPacket/operations/deleteArray.s: thirdPacket/operations/deleteArray.c.s
-.PHONY : thirdPacket/operations/deleteArray.s
+thirdPacket/operations/swapAny.s: thirdPacket/operations/swapAny.c.s
+.PHONY : thirdPacket/operations/swapAny.s
 
 # target to generate assembly for a file
-thirdPacket/operations/deleteArray.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/deleteArray.c.s
-.PHONY : thirdPacket/operations/deleteArray.c.s
+thirdPacket/operations/swapAny.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/swapAny.c.s
+.PHONY : thirdPacket/operations/swapAny.c.s
 
 # Help Target
 help:
@@ -215,9 +215,9 @@ help:
 	@echo ... thirdPacket/operations/arrayIO.obj
 	@echo ... thirdPacket/operations/arrayIO.i
 	@echo ... thirdPacket/operations/arrayIO.s
-	@echo ... thirdPacket/operations/deleteArray.obj
-	@echo ... thirdPacket/operations/deleteArray.i
-	@echo ... thirdPacket/operations/deleteArray.s
+	@echo ... thirdPacket/operations/swapAny.obj
+	@echo ... thirdPacket/operations/swapAny.i
+	@echo ... thirdPacket/operations/swapAny.s
 .PHONY : help
 
 
