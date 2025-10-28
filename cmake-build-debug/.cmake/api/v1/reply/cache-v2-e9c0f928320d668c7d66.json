@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/jabaclaw4/CLionProjects/university-intro-to-programming/cmake-build-debug"
+			"value" : "c:/Users/User/CLionProjects/university-intro-to-programming/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jabaclaw4/CLionProjects/university-intro-to-programming/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/User/CLionProjects/university-intro-to-programming/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -547,7 +547,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/jabaclaw4/CLionProjects/university-intro-to-programming"
+			"value" : "C:/Users/User/CLionProjects/university-intro-to-programming"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1195,7 +1195,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jabaclaw4/CLionProjects/university-intro-to-programming/cmake-build-debug"
+			"value" : "C:/Users/User/CLionProjects/university-intro-to-programming/cmake-build-debug"
 		},
 		{
 			"name" : "universPrograming_IS_TOP_LEVEL",
@@ -1219,7 +1219,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jabaclaw4/CLionProjects/university-intro-to-programming"
+			"value" : "C:/Users/User/CLionProjects/university-intro-to-programming"
 		}
 	],
 	"kind" : "cache",

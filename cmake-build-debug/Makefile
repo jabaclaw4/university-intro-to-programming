@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion2024.1.4\bin\cmake\win\x64\bin\cmake.exe" 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming
+CMAKE_SOURCE_DIR = C:\Users\User\CLionProjects\university-intro-to-programming
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -128,77 +128,53 @@ universPrograming0/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/build
 .PHONY : universPrograming0/fast
 
-thirdPacket/main.obj: thirdPacket/main.c.obj
-.PHONY : thirdPacket/main.obj
+stackPacket/main.obj: stackPacket/main.c.obj
+.PHONY : stackPacket/main.obj
 
 # target to build an object file
-thirdPacket/main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/main.c.obj
-.PHONY : thirdPacket/main.c.obj
+stackPacket/main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/main.c.obj
+.PHONY : stackPacket/main.c.obj
 
-thirdPacket/main.i: thirdPacket/main.c.i
-.PHONY : thirdPacket/main.i
+stackPacket/main.i: stackPacket/main.c.i
+.PHONY : stackPacket/main.i
 
 # target to preprocess a source file
-thirdPacket/main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/main.c.i
-.PHONY : thirdPacket/main.c.i
+stackPacket/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/main.c.i
+.PHONY : stackPacket/main.c.i
 
-thirdPacket/main.s: thirdPacket/main.c.s
-.PHONY : thirdPacket/main.s
+stackPacket/main.s: stackPacket/main.c.s
+.PHONY : stackPacket/main.s
 
 # target to generate assembly for a file
-thirdPacket/main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/main.c.s
-.PHONY : thirdPacket/main.c.s
+stackPacket/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/main.c.s
+.PHONY : stackPacket/main.c.s
 
-thirdPacket/operations/arrayIO.obj: thirdPacket/operations/arrayIO.c.obj
-.PHONY : thirdPacket/operations/arrayIO.obj
+stackPacket/operations/stackFunc.obj: stackPacket/operations/stackFunc.c.obj
+.PHONY : stackPacket/operations/stackFunc.obj
 
 # target to build an object file
-thirdPacket/operations/arrayIO.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.obj
-.PHONY : thirdPacket/operations/arrayIO.c.obj
+stackPacket/operations/stackFunc.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.obj
+.PHONY : stackPacket/operations/stackFunc.c.obj
 
-thirdPacket/operations/arrayIO.i: thirdPacket/operations/arrayIO.c.i
-.PHONY : thirdPacket/operations/arrayIO.i
-
-# target to preprocess a source file
-thirdPacket/operations/arrayIO.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.i
-.PHONY : thirdPacket/operations/arrayIO.c.i
-
-thirdPacket/operations/arrayIO.s: thirdPacket/operations/arrayIO.c.s
-.PHONY : thirdPacket/operations/arrayIO.s
-
-# target to generate assembly for a file
-thirdPacket/operations/arrayIO.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/arrayIO.c.s
-.PHONY : thirdPacket/operations/arrayIO.c.s
-
-thirdPacket/operations/swapAny.obj: thirdPacket/operations/swapAny.c.obj
-.PHONY : thirdPacket/operations/swapAny.obj
-
-# target to build an object file
-thirdPacket/operations/swapAny.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/swapAny.c.obj
-.PHONY : thirdPacket/operations/swapAny.c.obj
-
-thirdPacket/operations/swapAny.i: thirdPacket/operations/swapAny.c.i
-.PHONY : thirdPacket/operations/swapAny.i
+stackPacket/operations/stackFunc.i: stackPacket/operations/stackFunc.c.i
+.PHONY : stackPacket/operations/stackFunc.i
 
 # target to preprocess a source file
-thirdPacket/operations/swapAny.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/swapAny.c.i
-.PHONY : thirdPacket/operations/swapAny.c.i
+stackPacket/operations/stackFunc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.i
+.PHONY : stackPacket/operations/stackFunc.c.i
 
-thirdPacket/operations/swapAny.s: thirdPacket/operations/swapAny.c.s
-.PHONY : thirdPacket/operations/swapAny.s
+stackPacket/operations/stackFunc.s: stackPacket/operations/stackFunc.c.s
+.PHONY : stackPacket/operations/stackFunc.s
 
 # target to generate assembly for a file
-thirdPacket/operations/swapAny.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/thirdPacket/operations/swapAny.c.s
-.PHONY : thirdPacket/operations/swapAny.c.s
+stackPacket/operations/stackFunc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.s
+.PHONY : stackPacket/operations/stackFunc.c.s
 
 # Help Target
 help:
@@ -209,15 +185,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... universPrograming0
-	@echo ... thirdPacket/main.obj
-	@echo ... thirdPacket/main.i
-	@echo ... thirdPacket/main.s
-	@echo ... thirdPacket/operations/arrayIO.obj
-	@echo ... thirdPacket/operations/arrayIO.i
-	@echo ... thirdPacket/operations/arrayIO.s
-	@echo ... thirdPacket/operations/swapAny.obj
-	@echo ... thirdPacket/operations/swapAny.i
-	@echo ... thirdPacket/operations/swapAny.s
+	@echo ... stackPacket/main.obj
+	@echo ... stackPacket/main.i
+	@echo ... stackPacket/main.s
+	@echo ... stackPacket/operations/stackFunc.obj
+	@echo ... stackPacket/operations/stackFunc.i
+	@echo ... stackPacket/operations/stackFunc.s
 .PHONY : help
 
 
