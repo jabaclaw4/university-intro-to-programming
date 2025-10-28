@@ -7,6 +7,6 @@ set(CMAKE_C_STANDARD 11)
 #add_executable(universPrograming1 firstPacket/num1.2.1.c)
 
 add_executable(universPrograming0
-        fourthPacket/main.c
-        fourthPacket/operations/stackFunc.c
+        stackPacket/main.c
+        stackPacket/operations/stackFunc.c
 )
