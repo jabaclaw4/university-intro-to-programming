@@ -176,6 +176,54 @@ queuePacket/operations/queueFunc.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.s
 .PHONY : queuePacket/operations/queueFunc.c.s
 
+stackPacket/main.obj: stackPacket/main.c.obj
+.PHONY : stackPacket/main.obj
+
+# target to build an object file
+stackPacket/main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/main.c.obj
+.PHONY : stackPacket/main.c.obj
+
+stackPacket/main.i: stackPacket/main.c.i
+.PHONY : stackPacket/main.i
+
+# target to preprocess a source file
+stackPacket/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/main.c.i
+.PHONY : stackPacket/main.c.i
+
+stackPacket/main.s: stackPacket/main.c.s
+.PHONY : stackPacket/main.s
+
+# target to generate assembly for a file
+stackPacket/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/main.c.s
+.PHONY : stackPacket/main.c.s
+
+stackPacket/operations/stackFunc.obj: stackPacket/operations/stackFunc.c.obj
+.PHONY : stackPacket/operations/stackFunc.obj
+
+# target to build an object file
+stackPacket/operations/stackFunc.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.obj
+.PHONY : stackPacket/operations/stackFunc.c.obj
+
+stackPacket/operations/stackFunc.i: stackPacket/operations/stackFunc.c.i
+.PHONY : stackPacket/operations/stackFunc.i
+
+# target to preprocess a source file
+stackPacket/operations/stackFunc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.i
+.PHONY : stackPacket/operations/stackFunc.c.i
+
+stackPacket/operations/stackFunc.s: stackPacket/operations/stackFunc.c.s
+.PHONY : stackPacket/operations/stackFunc.s
+
+# target to generate assembly for a file
+stackPacket/operations/stackFunc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.s
+.PHONY : stackPacket/operations/stackFunc.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -191,6 +239,12 @@ help:
 	@echo ... queuePacket/operations/queueFunc.obj
 	@echo ... queuePacket/operations/queueFunc.i
 	@echo ... queuePacket/operations/queueFunc.s
+	@echo ... stackPacket/main.obj
+	@echo ... stackPacket/main.i
+	@echo ... stackPacket/main.s
+	@echo ... stackPacket/operations/stackFunc.obj
+	@echo ... stackPacket/operations/stackFunc.i
+	@echo ... stackPacket/operations/stackFunc.s
 .PHONY : help
 
 
