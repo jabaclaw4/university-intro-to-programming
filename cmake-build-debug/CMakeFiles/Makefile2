@@ -80,12 +80,12 @@ clean: CMakeFiles/universPrograming0.dir/clean
 CMakeFiles/universPrograming0.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4 "Built target universPrograming0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target universPrograming0"
 .PHONY : CMakeFiles/universPrograming0.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/universPrograming0.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/universPrograming0.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/universPrograming0.dir/rule
