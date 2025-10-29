@@ -128,53 +128,53 @@ universPrograming0/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/build
 .PHONY : universPrograming0/fast
 
-stackPacket/main.obj: stackPacket/main.c.obj
-.PHONY : stackPacket/main.obj
+queuePacket/main.obj: queuePacket/main.c.obj
+.PHONY : queuePacket/main.obj
 
 # target to build an object file
-stackPacket/main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/main.c.obj
-.PHONY : stackPacket/main.c.obj
+queuePacket/main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj
+.PHONY : queuePacket/main.c.obj
 
-stackPacket/main.i: stackPacket/main.c.i
-.PHONY : stackPacket/main.i
+queuePacket/main.i: queuePacket/main.c.i
+.PHONY : queuePacket/main.i
 
 # target to preprocess a source file
-stackPacket/main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/main.c.i
-.PHONY : stackPacket/main.c.i
+queuePacket/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/queuePacket/main.c.i
+.PHONY : queuePacket/main.c.i
 
-stackPacket/main.s: stackPacket/main.c.s
-.PHONY : stackPacket/main.s
+queuePacket/main.s: queuePacket/main.c.s
+.PHONY : queuePacket/main.s
 
 # target to generate assembly for a file
-stackPacket/main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/main.c.s
-.PHONY : stackPacket/main.c.s
+queuePacket/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/queuePacket/main.c.s
+.PHONY : queuePacket/main.c.s
 
-stackPacket/operations/stackFunc.obj: stackPacket/operations/stackFunc.c.obj
-.PHONY : stackPacket/operations/stackFunc.obj
+queuePacket/operations/queueFunc.obj: queuePacket/operations/queueFunc.c.obj
+.PHONY : queuePacket/operations/queueFunc.obj
 
 # target to build an object file
-stackPacket/operations/stackFunc.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.obj
-.PHONY : stackPacket/operations/stackFunc.c.obj
+queuePacket/operations/queueFunc.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj
+.PHONY : queuePacket/operations/queueFunc.c.obj
 
-stackPacket/operations/stackFunc.i: stackPacket/operations/stackFunc.c.i
-.PHONY : stackPacket/operations/stackFunc.i
+queuePacket/operations/queueFunc.i: queuePacket/operations/queueFunc.c.i
+.PHONY : queuePacket/operations/queueFunc.i
 
 # target to preprocess a source file
-stackPacket/operations/stackFunc.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.i
-.PHONY : stackPacket/operations/stackFunc.c.i
+queuePacket/operations/queueFunc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.i
+.PHONY : queuePacket/operations/queueFunc.c.i
 
-stackPacket/operations/stackFunc.s: stackPacket/operations/stackFunc.c.s
-.PHONY : stackPacket/operations/stackFunc.s
+queuePacket/operations/queueFunc.s: queuePacket/operations/queueFunc.c.s
+.PHONY : queuePacket/operations/queueFunc.s
 
 # target to generate assembly for a file
-stackPacket/operations/stackFunc.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/stackPacket/operations/stackFunc.c.s
-.PHONY : stackPacket/operations/stackFunc.c.s
+queuePacket/operations/queueFunc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\universPrograming0.dir\build.make CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.s
+.PHONY : queuePacket/operations/queueFunc.c.s
 
 # Help Target
 help:
@@ -185,12 +185,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... universPrograming0
-	@echo ... stackPacket/main.obj
-	@echo ... stackPacket/main.i
-	@echo ... stackPacket/main.s
-	@echo ... stackPacket/operations/stackFunc.obj
-	@echo ... stackPacket/operations/stackFunc.i
-	@echo ... stackPacket/operations/stackFunc.s
+	@echo ... queuePacket/main.obj
+	@echo ... queuePacket/main.i
+	@echo ... queuePacket/main.s
+	@echo ... queuePacket/operations/queueFunc.obj
+	@echo ... queuePacket/operations/queueFunc.i
+	@echo ... queuePacket/operations/queueFunc.s
 .PHONY : help
 
 

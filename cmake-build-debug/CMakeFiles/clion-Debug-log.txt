@@ -9,5 +9,6 @@ CMake Deprecation Warning:
 
 
 -- Configuring done (0.2s)
--- Generating done (0.1s)
+-- Generating done (0.0s)
 -- Build files have been written to: C:/Users/jabaclaw4/CLionProjects/university-intro-to-programming/cmake-build-debug
+CMake File API: C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug: failed to load from 'C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\.cmake\api\v1\reply\codemodel-v2-8e4830eabfdb91e3e913.json'

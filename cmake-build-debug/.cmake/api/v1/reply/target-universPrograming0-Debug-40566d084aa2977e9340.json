@@ -100,13 +100,21 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/target-universPrograming0-Debug-40566d084aa2977e9340.json
+			"path" : "queuePacket/main.c",
+========
 			"path" : "stackPacket/main.c",
+>>>>>>>> master:cmake-build-debug/.cmake/api/v1/reply/target-universPrograming0-Debug-2fc85e32108b375c4294.json
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/target-universPrograming0-Debug-40566d084aa2977e9340.json
+			"path" : "queuePacket/operations/queueFunc.c",
+========
 			"path" : "stackPacket/operations/stackFunc.c",
+>>>>>>>> master:cmake-build-debug/.cmake/api/v1/reply/target-universPrograming0-Debug-2fc85e32108b375c4294.json
 			"sourceGroupIndex" : 0
 		}
 	],

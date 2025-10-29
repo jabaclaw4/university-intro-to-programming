@@ -39,7 +39,11 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "universPrograming0::@6890427a1f51a3e7e1df",
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8e4830eabfdb91e3e913.json
+					"jsonFile" : "target-universPrograming0-Debug-40566d084aa2977e9340.json",
+========
 					"jsonFile" : "target-universPrograming0-Debug-2fc85e32108b375c4294.json",
+>>>>>>>> master:cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6f35b3148947aefd53d4.json
 					"name" : "universPrograming0",
 					"projectIndex" : 0
 				}
