@@ -11,8 +11,8 @@ typedef struct Node {
 } Node;
 
 typedef struct {
-    Node* front;//начало очереди (удаление)
-    Node* tail;//конец очереди (добавление)
+    Node* front;//начало очереди
+    Node* tail;//конец очереди
     int size;
 } Queue;
 
