@@ -5,42 +5,40 @@ int main() {
     Stack my_stack;
     int choice, value;
     init(&my_stack);
-    printf("=== Реализация стека ===\n");
+    printf("=== Stack implementation ===\n");
     while (1) {
-        printf("\n1. Добавить элемент\n");
-        printf("2. Удалить элемент\n");
-        printf("3. Показать стек\n");
-        printf("4. Проверить пустоту\n");
-        printf("0. Выход\n");
-        printf("Выберите команду: ");
+        printf("\n1. Added element in stack\n");
+        printf("2. Remove element from stack\n");
+        printf("3. Show the stack\n");
+        printf("4. Check the void\n");
+        printf("0. Out\n");
+        printf("Choose command: ");
         scanf("%d", &choice);
         switch (choice) {
             case 0:
-                printf("Выход...\n");
+                printf("Out...\n");
                 return 0;
             case 1:
-                printf("Введите значение: ");
+                printf("Enter the value: ");
                 scanf("%d", &value);
                 push(&my_stack, value);
                 break;
             case 2:
                 value = pop(&my_stack);
-                if (value != -1) {
-                    printf("Элемент %d извлечен из стека.\n", value);
-                }
+                printf("Element %d removed from stack\n", value);
                 break;
             case 3:
                 print(&my_stack);
                 break;
             case 4:
                 if (is_empty(&my_stack)) {
-                    printf("Стек пуст.\n");
+                    printf("stack is empty\n");
                 } else {
-                    printf("Стек не пуст.\n");
+                    printf("stack dont empty\n");
                 }
                 break;
             default:
-                printf("Неверная команда!\n");
+                printf("irregular command\n");
                 break;
         }
     }
