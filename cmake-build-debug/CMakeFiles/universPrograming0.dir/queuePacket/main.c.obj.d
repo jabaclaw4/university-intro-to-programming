@@ -1,6 +1,6 @@
 CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj: \
- C:\Users\User\CLionProjects\university-intro-to-programming\queuePacket\main.c \
- C:\Users\User\CLionProjects\university-intro-to-programming\queuePacket\headerFiles/queue.h \
+ C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\queuePacket\main.c \
+ C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\queuePacket\headerFiles/queue.h \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
@@ -22,4 +22,5 @@ CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj: \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
  C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/errno.h \
- C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h
+ C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdbool.h \
+ C:/Program\ Files/JetBrains/CLion2024.1.4/bin/mingw/x86_64-w64-mingw32/include/locale.h

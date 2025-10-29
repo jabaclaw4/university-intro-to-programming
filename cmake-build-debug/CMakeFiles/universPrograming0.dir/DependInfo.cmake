@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/User/CLionProjects/university-intro-to-programming/queuePacket/main.c" "CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj.d"
-  "C:/Users/User/CLionProjects/university-intro-to-programming/queuePacket/operations/queueFunc.c" "CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj.d"
+  "C:/Users/jabaclaw4/CLionProjects/university-intro-to-programming/queuePacket/main.c" "CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj.d"
+  "C:/Users/jabaclaw4/CLionProjects/university-intro-to-programming/queuePacket/operations/queueFunc.c" "CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj" "gcc" "CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

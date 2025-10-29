@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion2024.1.4\bin\cmake\win\x64\bin\cmake.exe" 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\User\CLionProjects\university-intro-to-programming
+CMAKE_SOURCE_DIR = C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/universPrograming0.dir/depend.make
@@ -69,32 +69,32 @@ include CMakeFiles/universPrograming0.dir/progress.make
 include CMakeFiles/universPrograming0.dir/flags.make
 
 CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj: CMakeFiles/universPrograming0.dir/flags.make
-CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/queuePacket/main.c
+CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj: C:/Users/jabaclaw4/CLionProjects/university-intro-to-programming/queuePacket/main.c
 CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj -MF CMakeFiles\universPrograming0.dir\queuePacket\main.c.obj.d -o CMakeFiles\universPrograming0.dir\queuePacket\main.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\queuePacket\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/queuePacket/main.c.obj -MF CMakeFiles\universPrograming0.dir\queuePacket\main.c.obj.d -o CMakeFiles\universPrograming0.dir\queuePacket\main.c.obj -c C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\queuePacket\main.c
 
 CMakeFiles/universPrograming0.dir/queuePacket/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/queuePacket/main.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\queuePacket\main.c > CMakeFiles\universPrograming0.dir\queuePacket\main.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\queuePacket\main.c > CMakeFiles\universPrograming0.dir\queuePacket\main.c.i
 
 CMakeFiles/universPrograming0.dir/queuePacket/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/queuePacket/main.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\queuePacket\main.c -o CMakeFiles\universPrograming0.dir\queuePacket\main.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\queuePacket\main.c -o CMakeFiles\universPrograming0.dir\queuePacket\main.c.s
 
 CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj: CMakeFiles/universPrograming0.dir/flags.make
-CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj: C:/Users/User/CLionProjects/university-intro-to-programming/queuePacket/operations/queueFunc.c
+CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj: C:/Users/jabaclaw4/CLionProjects/university-intro-to-programming/queuePacket/operations/queueFunc.c
 CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj: CMakeFiles/universPrograming0.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj -MF CMakeFiles\universPrograming0.dir\queuePacket\operations\queueFunc.c.obj.d -o CMakeFiles\universPrograming0.dir\queuePacket\operations\queueFunc.c.obj -c C:\Users\User\CLionProjects\university-intro-to-programming\queuePacket\operations\queueFunc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.obj -MF CMakeFiles\universPrograming0.dir\queuePacket\operations\queueFunc.c.obj.d -o CMakeFiles\universPrograming0.dir\queuePacket\operations\queueFunc.c.obj -c C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\queuePacket\operations\queueFunc.c
 
 CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\User\CLionProjects\university-intro-to-programming\queuePacket\operations\queueFunc.c > CMakeFiles\universPrograming0.dir\queuePacket\operations\queueFunc.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\queuePacket\operations\queueFunc.c > CMakeFiles\universPrograming0.dir\queuePacket\operations\queueFunc.c.i
 
 CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/universPrograming0.dir/queuePacket/operations/queueFunc.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\User\CLionProjects\university-intro-to-programming\queuePacket\operations\queueFunc.c -o CMakeFiles\universPrograming0.dir\queuePacket\operations\queueFunc.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\queuePacket\operations\queueFunc.c -o CMakeFiles\universPrograming0.dir\queuePacket\operations\queueFunc.c.s
 
 # Object files for target universPrograming0
 universPrograming0_OBJECTS = \
@@ -110,7 +110,7 @@ universPrograming0.exe: CMakeFiles/universPrograming0.dir/build.make
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/linkLibs.rsp
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/objects1.rsp
 universPrograming0.exe: CMakeFiles/universPrograming0.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable universPrograming0.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable universPrograming0.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\universPrograming0.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -122,6 +122,6 @@ CMakeFiles/universPrograming0.dir/clean:
 .PHONY : CMakeFiles/universPrograming0.dir/clean
 
 CMakeFiles/universPrograming0.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\User\CLionProjects\university-intro-to-programming C:\Users\User\CLionProjects\university-intro-to-programming C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug C:\Users\User\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles\universPrograming0.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug C:\Users\jabaclaw4\CLionProjects\university-intro-to-programming\cmake-build-debug\CMakeFiles\universPrograming0.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/universPrograming0.dir/depend
 

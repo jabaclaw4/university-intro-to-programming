@@ -20,10 +20,10 @@ void enqueue(Queue* q, int value) {
     new_node->next = NULL;
     if (is_empty(q)) {
         q->front = new_node;
-        q->rear = new_node;
+        q->tail = new_node;
     } else {
-        q->rear->next = new_node;
-        q->rear = new_node;
+        q->tail->next = new_node;
+        q->tail = new_node;
     }
     q->size++;
     printf("Элемент %d добавлен в очередь.\n", value);
@@ -38,7 +38,7 @@ int dequeue(Queue* q) {
     int value = temp->data;
     q->front = q->front->next;
     if (q->front == NULL) {
-        q->rear = NULL;
+        q->tail = NULL;
     }
     free(temp);
     q->size--;
